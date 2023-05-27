@@ -3,7 +3,7 @@ import JokeList from "./JokeList";
 
 class App extends Component {
   render() {
-    ß(
+    return(
       <div className="App">
         <JokeList />
       </div>
